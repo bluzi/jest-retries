@@ -1,0 +1,20 @@
+{
+  "name": "jest-retries",
+  "version": "1.0.0",
+  "description": "Automatically retry flaky tests with Jest",
+  "main": "src/retry.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "retries",
+    "retry",
+    "tests"
+  ],
+  "author": "Eliran Pe'er <eliran013@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
