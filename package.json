@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluzi/jest-retries"
+  },
   "keywords": [
     "jest",
     "retries",
